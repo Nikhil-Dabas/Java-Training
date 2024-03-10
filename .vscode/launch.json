@@ -1,0 +1,35 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "calculatar",
+      "request": "launch",
+      "mainClass": "calculatar",
+      "projectName": "java_training_e0feb906"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Grade_Calculator",
+      "request": "launch",
+      "mainClass": "Grade_Calculator",
+      "projectName": "java_training_e0feb906"
+    },
+    {
+      "type": "java",
+      "name": "hii",
+      "request": "launch",
+      "mainClass": "hii",
+      "projectName": "java_training_e0feb906"
+    }
+  ]
+}
